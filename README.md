@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi and welcome to my personal projects ...
 
 <!--
 **atlas976/atlas976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
